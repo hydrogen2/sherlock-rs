@@ -2,10 +2,6 @@ MIT License
 
 Copyright (c) 2026 sherlock-rs contributors
 
-This project is a derivative work of the Sherlock Project
-(https://github.com/sherlock-project/sherlock), which is MIT-licensed. The original
-license text is preserved in resources/UPSTREAM-LICENSE.
-
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
 in the Software without restriction, including without limitation the rights
@@ -23,3 +19,9 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+---
+
+This project is a derivative work of the Sherlock Project
+(https://github.com/sherlock-project/sherlock), which is MIT-licensed. The
+original license text is preserved in resources/UPSTREAM-LICENSE.
