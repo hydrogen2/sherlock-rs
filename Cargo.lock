@@ -1312,7 +1312,7 @@ dependencies = [
 ]
 
 [[package]]
-name = "sherlock-rs"
+name = "sherlock-hunt"
 version = "0.1.0"
 dependencies = [
  "anyhow",
