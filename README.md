@@ -29,10 +29,15 @@ false positives.
 ## Install
 
 ```bash
-# From source (needs a Rust toolchain):
+# From crates.io (installs the `sherlock-rs` binary):
+cargo install sherlock-hunt
+
+# ...or from source:
 cargo install --path .
-# or grab a prebuilt binary from Releases (coming soon)
 ```
+
+> The crate is named `sherlock-hunt` on crates.io (the name `sherlock-rs` was already
+> taken by an unrelated crate); the installed binary is still `sherlock-rs`.
 
 ## Usage
 
