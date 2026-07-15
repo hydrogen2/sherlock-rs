@@ -1,10 +1,16 @@
 [package]
-name = "sherlock-rs"
+# Crate/package name (crates.io). The binary is still `sherlock-rs` — see [[bin]].
+# `sherlock-rs` was taken on crates.io by an unrelated JSON-RPC crate.
+name = "sherlock-hunt"
 version = "0.1.0"
 edition = "2021"
 description = "Hunt down social media accounts by username across social networks — a fast, single-binary Rust port of sherlock."
 license = "MIT"
 repository = "https://github.com/hydrogen2/sherlock-rs"
+homepage = "https://github.com/hydrogen2/sherlock-rs"
+readme = "README.md"
+keywords = ["osint", "username", "sherlock", "social", "cli"]
+categories = ["command-line-utilities"]
 
 [[bin]]
 name = "sherlock-rs"
